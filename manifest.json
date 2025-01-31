@@ -1,0 +1,14 @@
+{
+	"name": "Loop",
+	"short_name": "Loop",
+	"display": "standalone",
+	"background_color": "#a8c64e",
+	"theme_color": "#a8c64e",
+	"icons": [
+		{
+			"src": "icon.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
